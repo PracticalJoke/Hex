@@ -156,9 +156,9 @@ local library = {
     pointers = {},
     settings = {
         guiname = "Octagon",
-		title = "Still thinking of a name (Its still pasted and detected)",
+		title = "Octagon (BETA) (REAL)",
 		logo = "rbxassetid://1088453199", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = "I love you Animed ❤️ ",
+        footer = "Ririchi is gay ",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
