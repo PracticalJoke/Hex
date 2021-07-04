@@ -156,7 +156,7 @@ local library = {
     pointers = {},
     settings = {
         guiname = "Octagon",
-		title = "Pasted And Detected Cheat",
+		title = "Still thinking of a name (Its still pasted and detected)",
 		logo = "rbxassetid://185304725", -- "http://www.roblox.com/asset/?id=6597976562",
         footer = "I love you Animed ❤️ ",
         modal = true,
