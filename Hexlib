@@ -157,7 +157,7 @@ local library = {
     settings = {
         guiname = "Octagon",
 		title = "Pasted And Detected Cheat",
-		logo = "rbxassetid://5144406934", -- "http://www.roblox.com/asset/?id=6597976562",
+		logo = "rbxassetid://4663985075", -- "http://www.roblox.com/asset/?id=6597976562",
         footer = "I love you Animed ❤️ ",
         modal = true,
         font = Enum.Font.SourceSans,
