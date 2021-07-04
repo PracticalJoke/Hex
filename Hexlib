@@ -157,7 +157,7 @@ local library = {
     settings = {
         guiname = "Octagon",
 		title = "Still thinking of a name (Its still pasted and detected)",
-		logo = "rbxassetid://185304725", -- "http://www.roblox.com/asset/?id=6597976562",
+		logo = "rbxassetid://1088453199", -- "http://www.roblox.com/asset/?id=6597976562",
         footer = "I love you Animed ❤️ ",
         modal = true,
         font = Enum.Font.SourceSans,
