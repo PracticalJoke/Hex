@@ -158,7 +158,7 @@ local library = {
         guiname = "Octagon",
 		title = "Octagon (BETA) (REAL)",
 		logo = "rbxassetid://1088453199", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = "Ririchi is gay ",
+        footer = "I love you Animed ❤️ ",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
