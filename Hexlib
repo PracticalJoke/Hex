@@ -158,7 +158,7 @@ local library = {
         guiname = "Hexagon",
 		title = "Hexagon",
 		logo = "rbxassetid://1088453199", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = "SMOKING THIS ROSIE PACK LOUD N CLEAR ",
+        footer = "Dont know what to put here",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
